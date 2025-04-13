@@ -1,0 +1,2 @@
+# Normality-Correlation-Analysis-For-AAPL-MSFT-Returns
+This project examines the statistical properties of daily stock returns for Apple (AAPL) and Microsoft (MSFT), with a specific focus on normality testing and correlation analysis. The goal is to assess whether the data meets assumptions of normal distribution and how violations of these assumptions affect the interpretation of correlation measures.
